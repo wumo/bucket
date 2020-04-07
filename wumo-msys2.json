@@ -6,12 +6,12 @@
     "license": "GPL-2.0-only|BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://git.marslab.org/scoop/downloads/raw/master/lfs/msys2-base-x86_64-20190524.tar.xz",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/msys2/distrib/x86_64/msys2-base-x86_64-20190524.tar.xz",
             "extract_dir": "msys64",
             "hash": "sha1:cfe5035b1b81b43469d16bfc23be8006b9a44455"
         },
         "32bit": {
-            "url": "https://git.marslab.org/scoop/downloads/raw/master/lfs/msys2-base-i686-20190524.tar.xz",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/msys2/distrib/i686/msys2-base-i686-20190524.tar.xz",
             "extract_dir": "msys32",
             "hash": "sha1:ff86c3e4ef8777074fd394510b95943d0c943956"
         }
